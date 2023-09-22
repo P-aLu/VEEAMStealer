@@ -1,0 +1,15 @@
+C:\Users\PSN\source\repos\VEEAMStealer\VEEAMStealer\obj\Release\VEEAMStealer.csproj.AssemblyReference.cache
+C:\Users\PSN\source\repos\VEEAMStealer\VEEAMStealer\obj\Release\VEEAMStealer.csproj.CoreCompileInputs.cache
+C:\Users\PSN\source\repos\VEEAMStealer\VEEAMStealer\bin\Release\VEEAMStealer.exe.config
+C:\Users\PSN\source\repos\VEEAMStealer\VEEAMStealer\bin\Release\VEEAMStealer.exe
+C:\Users\PSN\source\repos\VEEAMStealer\VEEAMStealer\bin\Release\VEEAMStealer.pdb
+C:\Users\PSN\source\repos\VEEAMStealer\VEEAMStealer\obj\Release\VEEAMStealer.exe
+C:\Users\PSN\source\repos\VEEAMStealer\VEEAMStealer\obj\Release\VEEAMStealer.pdb
+Z:\Tools\Tools\RedTeam\PostExploit\VEEAMStealer\VEEAMStealer\bin\Release\VEEAMStealer.exe.config
+Z:\Tools\Tools\RedTeam\PostExploit\VEEAMStealer\VEEAMStealer\bin\Release\VEEAMStealer.exe
+Z:\Tools\Tools\RedTeam\PostExploit\VEEAMStealer\VEEAMStealer\bin\Release\VEEAMStealer.pdb
+Z:\Tools\Tools\RedTeam\PostExploit\VEEAMStealer\VEEAMStealer\obj\Release\VEEAMStealer.csproj.AssemblyReference.cache
+Z:\Tools\Tools\RedTeam\PostExploit\VEEAMStealer\VEEAMStealer\obj\Release\VEEAMStealer.csproj.SuggestedBindingRedirects.cache
+Z:\Tools\Tools\RedTeam\PostExploit\VEEAMStealer\VEEAMStealer\obj\Release\VEEAMStealer.csproj.CoreCompileInputs.cache
+Z:\Tools\Tools\RedTeam\PostExploit\VEEAMStealer\VEEAMStealer\obj\Release\VEEAMStealer.exe
+Z:\Tools\Tools\RedTeam\PostExploit\VEEAMStealer\VEEAMStealer\obj\Release\VEEAMStealer.pdb
